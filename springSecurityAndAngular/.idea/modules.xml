@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springSecurityAndAngular.iml" filepath="$PROJECT_DIR$/.idea/modules/springSecurityAndAngular.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springSecurityAndAngular_main.iml" filepath="$PROJECT_DIR$/.idea/modules/springSecurityAndAngular_main.iml" group="springSecurityAndAngular" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springSecurityAndAngular_test.iml" filepath="$PROJECT_DIR$/.idea/modules/springSecurityAndAngular_test.iml" group="springSecurityAndAngular" />
+    </modules>
+  </component>
+</project>
